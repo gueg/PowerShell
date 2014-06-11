@@ -2,7 +2,7 @@
 #ce script permet de recuperer le nombre de ports sur des equipements switchs CatOS / IOS#
 #ce script ecrit 4 fichiers dans un repertoire choisis par l user                        #
 #@damien gueganic LinkedIn :  http://fr.linkedin.com/pub/damien-gueganic/58/359/39       #
-#@damien gueganic Viadeo : http://fr.viadeo.com/fr/profile/damien.gueganic				       #
+#@damien gueganic Viadeo : http://fr.viadeo.com/fr/profile/damien.gueganic		 #
 #****************************************************************************************#
 
 clear
